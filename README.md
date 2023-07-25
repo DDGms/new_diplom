@@ -1,1 +1,1 @@
-# new_diplom
+# diplom
